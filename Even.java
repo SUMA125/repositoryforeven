@@ -1,5 +1,7 @@
 import java.util.Scanner;
 //changed code for this program
+
+// changes made to use pull command
 class Even 
 
 {
