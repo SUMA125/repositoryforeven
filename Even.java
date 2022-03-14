@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//changed code for this program
 class Even 
 
 {
